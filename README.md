@@ -6,8 +6,6 @@ Viper: Working with enviroment variables to keep secrets mine
 
 GORM: Allows object relations, so I can deal with users.GetById(1) instead of "SELECT id, name... FROM users WHERE id = 1"
 
-JWT-GO: Go implementation of JSON Web Tokens
-
 ## App Structure
 
 1. Run docker database container
